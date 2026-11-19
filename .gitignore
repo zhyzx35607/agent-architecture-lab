@@ -1,0 +1,14 @@
+# Python build/test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local verification sandboxes
+.verify-temp/
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

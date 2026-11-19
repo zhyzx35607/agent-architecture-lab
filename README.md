@@ -37,3 +37,7 @@ python demo.py
 - [可供程序进一步处理的同批来源 JSON](sources/repositories.json)
 
 GitHub 搜索结果与来源清单只用于调研参考，Star 数和最近推送时间是 **2026-11-19 UTC** 的一次查询快照，并非质量评价。尚未在清单上核对的许可证标为 `NOASSERTION`，不是假设其开放许可。使用上游时须单独阅读对应仓库实际许可证和目录级声明。此处为架构启发而写的原创实现，没有复制或再发布上述仓库源码。
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
